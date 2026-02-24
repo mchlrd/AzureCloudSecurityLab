@@ -127,6 +127,6 @@ Event
 - Deploy additional VMs to simulate lateral movement
 
 ## References
-- ![Microsoft Sentinel Documentation](https://learn.microsoft.com/en-us/azure/sentinel)
-- ![Sysmon Documentation](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
-- ![Azure Monitor Agent Documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
+- [Microsoft Sentinel Documentation](https://learn.microsoft.com/en-us/azure/sentinel)
+- [Sysmon Documentation](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+- [Azure Monitor Agent Documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
